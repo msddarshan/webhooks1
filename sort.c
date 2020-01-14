@@ -37,3 +37,4 @@ sort()
         printf("%d\n", array[i]);
     }
 }
+//return 0;
