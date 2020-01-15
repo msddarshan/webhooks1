@@ -25,4 +25,5 @@ palin()
    else
       printf("%d is not a palindrome number",num);
   // return 0;
+   //return 0;
 }
